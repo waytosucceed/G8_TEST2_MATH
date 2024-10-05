@@ -1,0 +1,680 @@
+{
+  "heading": "Selected Topic",
+  "topics": [
+    {
+      "heading": "Profit and Loss",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "A shopkeeper bought a watch for $400 and sold it for $500. What is his profit percentage?",
+          "questionSound":"",
+
+          "options": [
+            {
+              "text": "25%"
+            },
+            {
+              "text": "15%"
+            },
+            {
+              "text": "22%"
+            },
+            {
+              "text": "35%"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 2,
+          "question": " A trader marks his product 30% above the cost price and then gives a discount of 10%. Find his profit percentage.",
+          "options": [
+            {
+              "text": "17%"
+
+            },
+            {
+              "text": "27%"
+
+            },
+            {
+              "text": "37%"
+
+            },
+            {
+              "text": "14%"
+
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        }
+        ,
+        {
+          "questionNo": 3,
+          "question": " Three partners invested capitals in the ratio of 1:2:3 and made a profit of $2400. Then, what is the highest share among the three?",
+          "options": [
+            {
+              "text": "$1250"
+
+            },
+            {
+              "text": "$1150"
+
+            },
+            {
+              "text": "$1100"
+
+            },
+            {
+              "text": "$1200"
+
+            }
+          ],
+          "answer": 3,
+          "explanation": ""
+        },
+        {
+          "questionNo": 4,
+          "question": "A trader professes to sell his goods at the cost price and still earns a profit of 25%. What weight has he used for 1 kg?",
+          "options": [
+            {
+              "text": "400g"
+
+            },
+            {
+              "text": "800g"
+
+            },
+            {
+              "text": "850g"
+
+            },
+            {
+              "text": "450g"
+
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Simple and Compound Interest",
+      "questions": [
+        {
+          "questionNo": 5,
+          "question": "Compound interest for one year on $400 calculated half yearly at 10% per annum is $84.",
+          "options": [
+            {
+              "text": "True"
+            },
+            {
+              "text": "False"
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 6,
+          "question": "Find the difference between simple interest and compound interest, if P = $35000, R = 4% per annum and n = 3 years.",
+          "options": [
+            {
+              "text": "$170.24"
+            },
+            {
+              "text": "$180.24"
+            },
+            {
+              "text": "$170.34"
+            },
+            {
+              "text": "$180.34"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 7,
+          "question": "Given $5 becomes $25 at the rate of 8% per annum simple interest. Find the the time period(in years).",
+          "options": [
+            {
+              "text": "45"
+            },
+            {
+              "text": "40"
+            },
+            {
+              "text": "55"
+            },
+            {
+              "text": "50"
+            }
+          ],
+          "answer": 3,
+          "explanation": ""
+        },
+        {
+          "questionNo": 8,
+          "question": "The population of a village increases at a rate of 5% every year. If the present population of the village is 5620, then find the population after 1 year.",
+          "options": [
+            {
+              "text": "5920"
+            },
+            {
+              "text": "5901"
+            },
+            {
+              "text": "5931"
+            },
+            {
+              "text": "None of these"
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Time and Work",
+      "questions": [
+        {
+          "questionNo": 9,
+          "question": "If 18 women can manufacture 900 items in 10 days, then how many women will be required to manufacture 660 items of the smae kind in 12 days?",
+          "options": [
+            {
+              "text": "10"
+            },
+            {
+              "text": "11"
+            },
+            {
+              "text": "12"
+            },
+            {
+              "text": "13"
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 10,
+          "question": "A is twice as good a workman as B and working together they finish a work in 14 days. In how many days can A alone finish the work?",
+          "questionSound":"",
+
+          "options": [
+            {
+              "text": "19"
+            },
+            {
+              "text": "20"
+            },
+            {
+              "text": "21"
+            },
+            {
+              "text": "22"
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        },
+        {
+          "questionNo": 11,
+          "question": "If a man can do a piece of work in 8h and a women can do the same work in 12h, then find the time it takes for 2 men and 3 women to finish the same work.",
+          "questionSound":"",
+
+          "options": [
+            {
+              "text": "1h"
+            },
+            {
+              "text": "2h"
+            },
+            {
+              "text": "3h"
+            },
+            {
+              "text": "4h"
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 12,
+          "question": "P and Q can do a work in 24 days, Q and R in 18 days and P and R in 12 days. In how many days can Q do the work? ",
+          "options": [
+            {
+              "text": "134 days"
+
+            },
+            {
+              "text": "143 days"
+
+            },
+            {
+              "text": "133 days"
+
+            },
+            {
+              "text": "144 days"
+
+            }
+          ],
+          "answer": 3,
+          "explanation": "\"Yellow\" has a double \"L\" in the middle, while the other words do not have a double \"L.\""
+        }
+      ]
+    },
+    {
+      "heading": "Polynomials",
+      "questions": [
+        {
+          "questionNo": 13,
+          "question": "The LCM of 27a<sup>5</sup> and 81a<sup>10</sup> is 3<sup>4</sup>a<sup>10</sup>. Is the given statement is true or false.",
+          "options": [
+            {
+              "text": "True"
+            },
+            {
+              "text": "False"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 14,
+          "question": "Simplify:<br>x<sup>2</sup> + 5x - 6",
+          "options": [
+            {
+              "text": "(x + 6)(x - 1)"
+            },
+            {
+              "text": "(x - 6)(x - 1)"
+            },
+            {
+              "text": "(x + 6)(x + 1)"
+            },
+            {
+              "text": "(x - 6)(x + 1)"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 15,
+          "question": "If (x + 4) is a factor of 3x<sup>2</sup> + 13x + k, then the value of k is ______.",
+          "questionSound":"",
+
+          "options": [
+            {
+              "text": "2"
+            },
+            {
+              "text": "4"
+            },
+            {
+              "text": "8"
+            },
+            {
+              "text": "14"
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 16,
+          "question": "The degree of a polynomial p(x) is 2 and that of another polynomial q(x) is 3, then the degree of p(x) × q(x) is___.",
+          "options": [
+            {
+              "text": "15"
+            },
+            {
+              "text": "10"
+            },
+            {
+              "text": "5"
+            },
+            {
+              "text": "20"
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Sets",
+      "questions": [
+        {
+          "questionNo": 17,
+          "question": "If A and B are two non-empty sets, then n(A × B) can be 17.",
+          "options": [
+            {
+              "text": "True"
+            },
+            {
+              "text": "False"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 18,
+          "question": "If A = {Factors of 36} and B = {Factors of 48}, then find A - B.",
+          "questionSound":"",
+
+          "options": [
+            {
+              "text": "{8, 16, 36}"
+            },
+            {
+              "text": "{9, 12, 36}"
+            },
+            {
+              "text": "{8, 16, 24}"
+            },
+            {
+              "text": "{9, 18, 36}"
+            }
+          ],
+          "answer": 3,
+          "explanation": ""
+        },
+        {
+          "questionNo": 19,
+          "question": "If A is the set of all the letters of the word HYDERABAD, then find the cardinal number of the power of set P(A).",
+          "options": [
+            {
+              "text": "138"
+            },
+            {
+              "text": "128"
+            },
+            {
+              "text": "118"
+            },
+            {
+              "text": "124"
+            }
+          ],
+          "answer": 1,
+          "explanation": "1"
+        },
+        {
+          "questionNo": 20,
+          "question": "If A = {1,2,3,4,5} and B = {6,5,4,1}, then find <br>(A ∪ B) - (A ∩ B)",
+          "options": [
+            {
+              "text": "{2, 4, 6}"
+            },
+            {
+              "text": "{1, 4, 6}"
+            },
+            {
+              "text": "{2, 3, 6}"
+            },
+            {
+              "text": "{1, 3, 6}"
+            }
+          ],
+          "answer": 2,
+          "explanation": "1"
+        }
+      ]
+    },
+    {
+      "heading": "Geometry",
+      "questions": [
+        {
+          "questionNo": 21,
+          "question": "KLMN is an isosceles trapezium in which LM = KL and ∠MNK = 100°. Find the supplement of ∠KLM. ",
+          "options": [
+            {
+              "text": "50°"
+            },
+            {
+              "text": "75°"
+            },
+            {
+              "text": "100°"
+            },
+            {
+              "text": "125°"
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        },
+        {
+          "questionNo": 22,
+          "question": "In the given figure, AB || CD and PQ || RS. If ∠CWX = 125° then find ∠WXY + ∠WZY.<br><img width='50%' src='./assests/images/question/27.png'>",
+          "options": [
+            {
+              "text": "150°"
+            },
+            {
+              "text": "200°"
+            },
+            {
+              "text": "250°"
+            },
+            {
+              "text": "300°"
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        },
+        {
+          "questionNo": 23,
+          "question": "In the given figure, AB is the diameter of the circle with center O. If ∠ACO = 30°, Then find ∠BOC<br><img width='50%' src='./assests/images/question/28.png'>",
+          "options": [
+            {
+              "text": "55°"
+            },
+            {
+              "text": "60°"
+            },
+            {
+              "text": "65°"
+            },
+            {
+              "text": "70°"
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 24,
+          "question": "In a △PQR, PS = SR = SQ and ∠PRS = 55°. Find ∠SQP.<br><img width='50%' src='./assests/images/question/29.png'>",
+          "options": [
+            {
+              "text": "55°"
+            },
+            {
+              "text": "35°"
+            },
+            {
+              "text": "45°"
+            },
+            {
+              "text": "25°"
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Mensuration",
+      "questions": [
+        {
+          "questionNo": 25,
+          "question": "A verandah 15m long  and 12m broad is to be paved with tiles each measuring 500 cm × 300 cm. Find the number of tiles needed.",
+          "options": [
+            {
+              "text": "11"
+
+            },
+            {
+              "text": "12"
+
+            },
+            {
+              "text": "22"
+
+            },
+            {
+              "text": "21"
+
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 26,
+          "question": "A hall is 12m long and 5m wide. If the height of the hall is 10m, then find the surface area of the walls of the hall.",
+          "options": [
+            {
+              "text": "340 m<sup>2</sup>"
+
+            },
+            {
+              "text": "240 m<sup>2</sup>"
+
+            },
+            {
+              "text": "380 m<sup>2</sup>"
+
+            },
+            {
+              "text": "280 m<sup>2</sup>"
+
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 27,
+          "question": "What is the lenght of cuboid  having breadth and height equal to 4cm and 6cm, respectively, and the total surface area of 148 cm<sup>2</sup>.",
+          "options": [
+            {
+              "text": "20 cm"
+
+            },
+            {
+              "text": "10 cm"
+
+            },
+            {
+              "text": "15 cm"
+
+            },
+            {
+              "text": "5 cm"
+
+            }
+          ],
+          "answer": 3,
+          "explanation": ""
+        },
+        {
+          "questionNo": 28,
+          "question": "What is the radius of a sector of central angle 120° and the length of the arc 924 cm?",
+          "options": [
+            {
+              "text": "421 cm"
+
+            },
+            {
+              "text": "442 cm"
+
+            },
+            {
+              "text": "441 cm"
+
+            },
+            {
+              "text": "422 cm"
+
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        }
+        
+      ]
+      
+    },
+    {
+      "heading": "Statistics",
+      "questions":[
+        {
+          "questionNo": 29,
+          "question": "If the mode of a data is 14 and mean is 17, then find the median of the data.",
+          "options": [
+            {
+              "text": "16"
+
+            },
+            {
+              "text": "15"
+
+            },
+            {
+              "text": "14"
+
+            },
+            {
+              "text": "17"
+
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 30,
+          "question": "Find the mean of the following data.<br><img width='50%' src='./assests/images/question/30.png'>",
+          "options": [
+            {
+              "text": "4"
+
+            },
+            {
+              "text": "3"
+
+            },
+            {
+              "text": "1"
+
+            },
+            {
+              "text": "5"
+
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        }
+      ]
+    }
+  ]
+}
